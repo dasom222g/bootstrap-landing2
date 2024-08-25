@@ -5,7 +5,6 @@
   --light-color: #ecf0f1;
 }
 body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: var(--dark-color);
 }
 .navbar {
